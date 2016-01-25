@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class falling : MonoBehaviour {
+public class fix : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
