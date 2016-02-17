@@ -7,13 +7,13 @@ public class foreachloop : MonoBehaviour {
 	void Start () 
 	{
 	
-		string[] strings = new string[3];
+		string[] items = new string[3];
 
-		strings[0] = "string1";
-		strings[1] = "string2";
-		strings[2] = "string3";
+		items[0] = "frst item";
+		items[1] = "second item";
+		items[2] = "third item";
 
-		foreach (string item in strings) 
+		foreach (string item in items) 
 		{
 			print (item);
 		}
