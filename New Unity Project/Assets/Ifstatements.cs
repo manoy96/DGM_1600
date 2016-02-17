@@ -22,7 +22,7 @@ public class Ifstatements : MonoBehaviour
 			
 			test();
 
-		watertemp -= Time.deltaTime * 5f;
+		watertemp -= Time.deltaTime * 4f;
 	}
 	void test()
 	{
