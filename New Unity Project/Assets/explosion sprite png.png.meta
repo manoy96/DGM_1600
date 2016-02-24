@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: 22888a34718fb4673ac40027d4256ecf
+timeCreated: 1454084192
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: explosion sprite png_0
+    21300002: explosion sprite png_1
+    21300004: explosion sprite png_2
+    21300006: explosion sprite png_3
+    21300008: explosion sprite png_4
+    21300010: explosion sprite png_5
+    21300012: explosion sprite png_6
+    21300014: explosion sprite png_7
+    21300016: explosion sprite png_8
+    21300018: explosion sprite png_9
+    21300020: explosion sprite png_10
+    21300022: explosion sprite png_11
+    21300024: explosion sprite png_12
+    21300026: explosion sprite png_13
+    21300028: explosion sprite png_14
+    21300030: explosion sprite png_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: explosion sprite png_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 195
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 25.5}
+        - {x: 9.5, y: 26.5}
+        - {x: -20.5, y: 26.5}
+        - {x: -34.5, y: 17.5}
+        - {x: -36.5, y: 12.5}
+        - {x: -36.5, y: -6.5}
+        - {x: -34.5, y: -11.5}
+        - {x: -31.5, y: -18.5}
+        - {x: -28.5, y: -26.5}
+        - {x: 29.5, y: -26.5}
+        - {x: 36.5, y: -17.5}
+        - {x: 36.5, y: 1.5}
+        - {x: 17.5, y: 22.5}
+    - name: explosion sprite png_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 195
+        width: 79
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 29.5}
+        - {x: -30.5, y: 29.5}
+        - {x: -39.5, y: 22.5}
+        - {x: -39.5, y: -6.5}
+        - {x: -30.5, y: -29.5}
+        - {x: -11.5, y: -29.5}
+        - {x: -3.5, y: -27.5}
+        - {x: 18.5, y: -21.5}
+        - {x: 15.5, y: -27.5}
+        - {x: 15.5, y: -29.5}
+        - {x: 28.5, y: -29.5}
+        - {x: 39.5, y: -21.5}
+        - {x: 39.5, y: 12.5}
+    - name: explosion sprite png_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 200
+        width: 85
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 29}
+        - {x: -33.5, y: 25}
+        - {x: -42.5, y: 20}
+        - {x: -42.5, y: -29}
+        - {x: 39.5, y: -29}
+        - {x: 42.5, y: -21}
+        - {x: 42.5, y: 15}
+        - {x: 17.5, y: 29}
+    - name: explosion sprite png_3
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 201
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: 30.5}
+        - {x: -26.5, y: 30.5}
+        - {x: -42.5, y: 24.5}
+        - {x: -42.5, y: -24.5}
+        - {x: -30.5, y: -30.5}
+        - {x: 19.5, y: -30.5}
+        - {x: 35.5, y: -26.5}
+        - {x: 42.5, y: -10.5}
+        - {x: 42.5, y: 21.5}
+    - name: explosion sprite png_4
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 203
+        width: 87
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: 38.5}
+        - {x: -14.5, y: 38.5}
+        - {x: -30.5, y: 33.5}
+        - {x: -43.5, y: 14.5}
+        - {x: -43.5, y: -38.5}
+        - {x: 37.5, y: -38.5}
+        - {x: 43.5, y: -34.5}
+        - {x: 43.5, y: 27.5}
+        - {x: 38.5, y: 36.5}
+    - name: explosion sprite png_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 94
+        width: 91
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: 38.5}
+        - {x: 36.5, y: 47.5}
+        - {x: -30.5, y: 47.5}
+        - {x: -45.5, y: 32.5}
+        - {x: -45.5, y: -47.5}
+        - {x: 45.5, y: -47.5}
+        - {x: 45.5, y: 23.5}
+        - {x: 37.5, y: 36.5}
+    - name: explosion sprite png_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 47}
+        - {x: -45.5, y: -47}
+        - {x: 42.5, y: -47}
+        - {x: 45.5, y: -39}
+        - {x: 45.5, y: 47}
+      - - {x: 41.5, y: 13}
+        - {x: 43.5, y: 11}
+        - {x: 45.5, y: 12}
+        - {x: 45.5, y: 19}
+        - {x: 42.5, y: 18}
+    - name: explosion sprite png_7
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 43
+        width: 103
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: -59}
+        - {x: -51.5, y: -61}
+        - {x: -51.5, y: -72}
+        - {x: -50.5, y: -74}
+        - {x: -43.5, y: -74}
+        - {x: -42.5, y: -69}
+        - {x: -42.5, y: -59}
+      - - {x: 10.5, y: -62}
+        - {x: 10.5, y: -69}
+        - {x: 12.5, y: -70}
+        - {x: 15.5, y: -69}
+        - {x: 16.5, y: -65}
+        - {x: 13.5, y: -62}
+      - - {x: -3.5, y: -69}
+        - {x: -0.5, y: -68}
+        - {x: -0.5, y: -65}
+        - {x: -3.5, y: -64}
+        - {x: -5.5, y: -66}
+      - - {x: 39.5, y: 74}
+        - {x: 23.5, y: 74}
+        - {x: 20.5, y: 68}
+        - {x: 12.5, y: 74}
+        - {x: -30.5, y: 74}
+        - {x: -51.5, y: 58}
+        - {x: -51.5, y: -5}
+        - {x: -45.5, y: -20}
+        - {x: -38.5, y: -23}
+        - {x: -12.5, y: -23}
+        - {x: -19.5, y: -23}
+        - {x: -25.5, y: -24}
+        - {x: -37.5, y: -43}
+        - {x: -17.5, y: -63}
+        - {x: 23.5, y: -63}
+        - {x: 46.5, y: -38}
+        - {x: 51.5, y: -14}
+        - {x: 51.5, y: 50}
+      - - {x: -50.5, y: -49}
+        - {x: -51.5, y: -51}
+        - {x: -51.5, y: -59}
+        - {x: -50.5, y: -59}
+        - {x: -45.5, y: -58}
+        - {x: -42.5, y: -54}
+        - {x: -42.5, y: -50}
+        - {x: -45.5, y: -49}
+      - - {x: 31.5, y: -52}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: -48}
+        - {x: 31.5, y: -47}
+        - {x: 29.5, y: -49}
+    - name: explosion sprite png_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 46.5}
+        - {x: -48, y: -45.5}
+        - {x: -46, y: -46.5}
+        - {x: 40, y: -46.5}
+        - {x: 48, y: -35.5}
+        - {x: 48, y: 46.5}
+    - name: explosion sprite png_9
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: 0.5}
+        - {x: 48.5, y: 8.5}
+        - {x: 48.5, y: 45.5}
+        - {x: 46.5, y: 46.5}
+        - {x: -48.5, y: 46.5}
+        - {x: -48.5, y: -46.5}
+        - {x: 45.5, y: -46.5}
+        - {x: 48.5, y: -14.5}
+        - {x: 48.5, y: 2.5}
+        - {x: 47.5, y: 2.5}
+      - - {x: 18.5, y: 42.5}
+        - {x: 21.5, y: 39.5}
+        - {x: 24.5, y: 40.5}
+        - {x: 25.5, y: 45.5}
+        - {x: 24.5, y: 46.5}
+        - {x: 21.5, y: 46.5}
+        - {x: 18.5, y: 43.5}
+    - name: explosion sprite png_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 46.5}
+        - {x: -47, y: 43.5}
+        - {x: -47, y: -46.5}
+        - {x: 45, y: -46.5}
+        - {x: 47, y: -30.5}
+        - {x: 47, y: 46.5}
+    - name: explosion sprite png_11
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 63
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosion sprite png_12
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 61
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosion sprite png_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 95
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: 43}
+        - {x: 32.5, y: 41}
+        - {x: 28.5, y: 47}
+        - {x: -14.5, y: 47}
+        - {x: -47.5, y: 37}
+        - {x: -47.5, y: -47}
+        - {x: 40.5, y: -47}
+        - {x: 47.5, y: -17}
+        - {x: 47.5, y: 26}
+        - {x: 38.5, y: 41}
+    - name: explosion sprite png_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 94
+        width: 90
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 47}
+        - {x: -45, y: 39}
+        - {x: -45, y: -47}
+        - {x: 39, y: -47}
+        - {x: 45, y: -25}
+        - {x: 45, y: 37}
+        - {x: 39, y: 47}
+      - - {x: 41, y: -47}
+        - {x: 41, y: -45}
+        - {x: 38, y: -44}
+        - {x: 36, y: -47}
+    - name: explosion sprite png_15
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 95
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 45.5}
+        - {x: -45.5, y: -45.5}
+        - {x: 45.5, y: -45.5}
+        - {x: 45.5, y: 45.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
